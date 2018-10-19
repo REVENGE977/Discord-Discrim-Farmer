@@ -25,5 +25,5 @@ bot.on("ready", () => {
 		console.log("Discrim not changed.");
 	}
 });
-
+ 
 bot.login("Your Token");
